@@ -1,6 +1,8 @@
 # Geometry-Calculator
 Duration: Feburary 2020 - March 2020
 
+https://stevenzhang337.github.io/Geometry-Calculator-JS/
+
 This project had come in and out of my head for awhile before I decided to actually start it. The idea with this project was to create a geometry playground where the user can draw and create whatever geometry object they want whether it was to explore and to solve a problem. Often times math is done on pencil and paper but this project brings math to the digital sphere. I was more excited about this project than the others and honestly felt like this had potential to become something bigger. I had compared this concept to Desmos although it is far from complete.
 
 Although this project is incomplete, the concept of this project is here. You can create points and lines, and join them into shapes. You can find the midpoint, perpendicular bisector, or create circles. Any geometric property or idea could be illustrated through this program. As such, I imagined the main use for me was to solve geometry problems. Say you had a hard geometry problem, you could use this program to either find the answer directly like if it asked to find an angle or length of something, or it could assist you find formulating a proof. That was the general intent of this program. I also imagined it could be a good educational tool to teach students about basis geometric ideas like a triangle's incenter or orthocenter. Although we can just draw out these concepts, nothing beats a computer who can draw exact lines and angles. While this project could go on forever as we keep finding new geometric concepts to implement, we were far from done with implementing some basic features like circles, drawing exact triangles or calculating area.
